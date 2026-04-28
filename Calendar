@@ -561,7 +561,7 @@
 // ── CONFIG ─────────────────────────────────────────────────────────────────
 // To pre-load a sheet URL without users having to paste it each time,
 // set SHEET_URL below to your published CSV URL.
-const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTxZmfEpukIjeEKL8JBX8iXwA98mNuYbwHfHBYSqYRcU_JymEoUTbEEFPRKvJ7zg8TlLkbuTp35mqjw/pub?gid=680608658&single=true&output=csv';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTxZmfEpukIjeEKL8JBX8iXwA98mNuYbwHfHBYSqYRcU_JymEoUTbEEFPRKvJ7zg8TlLkbuTp35mqjw/pub?output=csv';
 
 // ── STATE ──────────────────────────────────────────────────────────────────
 const STAFF_COLORS = [
